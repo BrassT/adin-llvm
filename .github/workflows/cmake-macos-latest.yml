@@ -2,9 +2,9 @@ name: CMake-windows-tmate
 
 on:
   push:
-    branches: [ "adin-llvm" ]
+    branches: [ "adin-llvm1" ]
   pull_request:
-    branches: [ "adin-llvm" ]
+    branches: [ "adin-llvm1" ]
 
 env:
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
