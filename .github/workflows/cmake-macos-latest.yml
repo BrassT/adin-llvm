@@ -41,3 +41,4 @@ jobs:
         # Path to the file to upload
         path: bin/
         # Content type for the file
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
