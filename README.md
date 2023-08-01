@@ -1,5 +1,8 @@
 # ADIN LLVM Fork: Memory Operation Hooking
 
+[![Macos](https://github.com/BrassT/adin-llvm/actions/workflows/cmake-macos-latest.yml/badge.svg)](https://github.com/BrassT/adin-llvm/actions/workflows/cmake-macos-latest.yml) 
+[![Ubuntu](https://github.com/BrassT/adin-llvm/actions/workflows/Multi_Platform_build.yml/badge.svg)](https://github.com/BrassT/adin-llvm/actions/workflows/Multi_Platform_build.yml)
+
 ![logo](docs/logo.png)
 
 1. [Introduction](#introduction)
